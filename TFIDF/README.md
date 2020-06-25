@@ -6,7 +6,7 @@
 
 
 # 추천 결과
-- 세개의 영화의 추천결과를 보았을 때 양호한 결과를 보였으나 마션의 경우 아쉬운 결과를 보였다.
+- 세개의 영화(봄날은 간다, 주토피아, 마션)의 추천결과를 보았을 때 양호한 결과를 보였으나 마션의 경우 아쉬운 결과를 보였다.
 
 - 봄날은 간다
 <img src="https://github.com/BAEintelli/Where2go-/blob/master/TFIDF/img/TFIDF(%EC%9E%90%EC%97%B0%2C%EB%8C%80%EB%82%98%EB%AC%B4%2C%EC%88%B2).JPG">
