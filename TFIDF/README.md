@@ -1,13 +1,18 @@
-# Where2go-
+# TFIDF
 <img src="https://github.com/BAEintelli/Where2go-/blob/master/TFIDF/img/TFIDF.JPG">
 
-# Goals
-- 영화와 비슷한 여행지를 블로그글을 활용하여 추천
 
-# 프로젝트 개요
-- 인원 : 배준영 
-- 기간 : 2020년 5월 11일 ~ 29일
-- Technical Skills: Python, Pandas, Numpy, TFIDF, DOC2Vec, LDA
+
+# 추천 결과
+
+## 봄날은 간다
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/TFIDF/img/TFIDF(%EC%9E%90%EC%97%B0%2C%EB%8C%80%EB%82%98%EB%AC%B4%2C%EC%88%B2).JPG">
+
+## 주토피아
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/TFIDF/img/TFIDF(%EC%A3%BC%ED%86%A0%ED%94%BC%EC%95%84).JPG">
+
+## 마션
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/TFIDF/img/TFIDF(%EB%A7%88%EC%85%98).JPG">
 
 
 
