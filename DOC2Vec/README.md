@@ -6,6 +6,7 @@
 - 블로그 글뭉치로 학습한 결과를 확인하기 위하여 가까운 단어를 정렬해 보았다.
 - 문제점: 가까운 단어의 결과가 대부분 조사, 어미임 -> 글뭉치의 클리닝 작업이 필요함(명사 추출의 필요성)
 <img src="https://github.com/BAEintelli/Where2go-/blob/master/DOC2Vec/img/PV-DM.JPG">
+
 - 봄날은 간다(BAD)
 <img src="https://github.com/BAEintelli/Where2go-/blob/master/DOC2Vec/img/1st%20%EA%B2%B0%EA%B3%BC.JPG">
 
@@ -16,6 +17,7 @@
 
 - 봄날은 간다(BAD)
 <img src="https://github.com/BAEintelli/Where2go-/blob/master/DOC2Vec/img/2nd%20%EB%B4%84%EB%82%A0%EC%9D%80%20%EA%B0%84%EB%8B%A4.JPG">
+
 - 주토피아(BAD)
 <img src="https://github.com/BAEintelli/Where2go-/blob/master/DOC2Vec/img/2nd%20%EC%A3%BC%ED%86%A0%ED%94%BC%EC%95%84.JPG">
 
