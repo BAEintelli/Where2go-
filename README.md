@@ -19,4 +19,4 @@
  - [TFIDF](https://github.com/BAEintelli/Where2go-/blob/master/TFIDF/README.md)
  - [N-gram](https://github.com/BAEintelli/Where2go-/blob/master/N-gram/README.md)
  - [LSA](https://github.com/BAEintelli/Where2go-/blob/master/LSA/README.md)
- - LDA(https://github.com/BAEintelli/Where2go-/blob/master/LDA/README.md)
+ - [LDA](https://github.com/BAEintelli/Where2go-/blob/master/LDA/README.md)
