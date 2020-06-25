@@ -1,17 +1,15 @@
-# Where2go-
-블로그를 활용한 여행지 추천
+# LSA
+- 앞서 만들어 두었던 TFIDF행렬에 SVD로 축소행렬을 만들어 줌으로써 연산량을 줄이며 위에서 발견하지 못하였던 잠재적의미를 추출함을 목표로함.
+- 100, 200, 300, 차원등 차원을 늘리는 작업을 시도해 보았으나 특별한 변화가 보이지 않아 100차원으로 선정함.
+- 추천의 결과 대게 좋은 결과를 보임
 
-# Goals
-- 영화와 비슷한 여행지를 블로그글을 활용하여 추천
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/LSA/img/LSA(SVD).JPG">
 
-# 프로젝트 개요
-- 인원 : 배준영 
-- 기간 : 2020년 5월 11일 ~ 29일
-- Technical Skills: Python, Pandas, Numpy, TFIDF, DOC2Vec, LDA
+- 봄날은 간다(GOOD)
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/LSA/img/LSA%20%EA%B2%B0%EA%B3%BC%20%EB%B4%84%EB%82%A0%EC%9D%80%20%EA%B0%84%EB%8B%A4.JPG">
 
-# 데이터셋 개요
-- 영화 40건을 선정하여 영화에 알맞는 라베링을 함.
-- 1000곳의 여행지를 여행지 1곳당 네이버 블로그글 10건을 여행지를 설명하는 Description으로 만듬.
+- 주토피아(GOOD)
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/LSA/img/LSA%20%EA%B2%B0%EA%B3%BC%20%EC%A3%BC%ED%86%A0%ED%94%BC%EC%95%84.JPG">
 
-# 5가지 임베딩 방식을 통한 추천결과
-
+- 마션(GOOD)
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/LSA/img/LSA%20%EA%B2%B0%EA%B3%BC%20%EB%A7%88%EC%85%98.JPG">
