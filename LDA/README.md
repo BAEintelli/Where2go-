@@ -1,17 +1,14 @@
-# Where2go-
-블로그를 활용한 여행지 추천
+# LDA
+- 토픽모델링으로 현재 단계에서 여행지 설명글에 토픽은 1개라고 가정하고 토픽을 구성하는 단어의 갯수는 20개만을 추출하여 거리를 구하여 보았다.
+- 토픽의 갯수를 늘려보는 방식으로 해당 모델을 튜닝 할 수 있을것으로 판단됨.
 
-# Goals
-- 영화와 비슷한 여행지를 블로그글을 활용하여 추천
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/LDA/img/lda.JPG">
 
-# 프로젝트 개요
-- 인원 : 배준영 
-- 기간 : 2020년 5월 11일 ~ 29일
-- Technical Skills: Python, Pandas, Numpy, TFIDF, DOC2Vec, LDA
+- 봄날은 간다(GOOD)
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/LDA/img/LDA%20%EA%B2%B0%EA%B3%BC%20%EB%B4%84%EB%82%A0%EC%9D%80%20%EA%B0%84%EB%8B%A4.JPG">
 
-# 데이터셋 개요
-- 영화 40건을 선정하여 영화에 알맞는 라베링을 함.
-- 1000곳의 여행지를 여행지 1곳당 네이버 블로그글 10건을 여행지를 설명하는 Description으로 만듬.
+- 주토피아(GOOD)
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/LDA/img/LDA%EA%B2%B0%EA%B3%BC%20%EC%A3%BC%ED%86%A0%ED%94%BC%EC%95%84.JPG">
 
-# 5가지 임베딩 방식을 통한 추천결과
-
+- 마션(BAD)
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/LDA/img/LDA%20%EA%B2%B0%EA%B3%BC%20%EB%A7%88%EC%85%98.JPG">
