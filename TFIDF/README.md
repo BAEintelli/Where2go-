@@ -1,5 +1,5 @@
 # Where2go-
-블로그를 활용한 여행지 추천
+<img src="https://github.com/BAEintelli/Where2go-/blob/master/TFIDF/img/TFIDF.JPG">
 
 # Goals
 - 영화와 비슷한 여행지를 블로그글을 활용하여 추천
