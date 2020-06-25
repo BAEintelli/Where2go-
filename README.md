@@ -15,3 +15,8 @@
 
 # 5가지 임베딩 방식을 통한 추천결과
 
+ - [DOC2VEC](https://github.com/BAEintelli/Where2go-/blob/master/DOC2Vec/README.md)
+ - [TFIDF](https://github.com/BAEintelli/Where2go-/blob/master/TFIDF/README.md)
+ - [N-gram](https://github.com/BAEintelli/Where2go-/blob/master/N-gram/README.md)
+ - [LSA](https://github.com/BAEintelli/Where2go-/blob/master/LSA/README.md)
+ - [LDA](https://github.com/BAEintelli/Where2go-/blob/master/LDA/README.md)
